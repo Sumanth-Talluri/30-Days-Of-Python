@@ -4,40 +4,42 @@
 
 :arrow_right: &nbsp; If you also want to participate in this 30 days of Python programming challenge then **[Check this out](https://github.com/Asabeneh/30-Days-Of-Python)**
 
+:globe_with_meridians: &nbsp; **View Website [here](https://sumanth-talluri.github.io/30Days-Of-Python/)**
+
 &nbsp;
 
 |   # Day   | Topics                                                    |
 |-----------|:-------------------------------------------------------------------------------------------------------------: |
-|  01   |  [Introduction](./readme.md)      |
-|  02   |  [Variables, Built-in Functions](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)  |
-|  03   |  [Operators](./03_Day_Operators/03_operators.md)    |
-|  04   |  [Strings](./04_Day_Strings/04_strings.md)|
-|  05   |  [Lists](./05_Day_Lists/05_lists.md)  |
-|  06   |  [Tuples](./06_Day_Tuples/06_tuples.md) |
-|  07   |  [Sets](./07_Day_Sets/07_sets.md)  |
-|  08   |  [Dictionaries](./08_Day_Dictionaries/08_dictionaries.md)     |
-|  09   |  [Conditionals](./09_Day_Conditionals/09_conditionals.md)     |
-|  10   |  [Loops](./10_Day_Loops/10_loops.md)   |
-|  11   |  [Functions](./11_Day_Functions/11_functions.md)     |
-|  12   |  [Modules](./12_Day_Modules/12_modules.md)   |
-|  13   |  [List Comprehension](../13_Day_List_comprehension/13_list_comprehension.md)|
-|  14   |  [Higher Order Functions](./14_Day_Higher_order_functions/14_higher_order_functions.md)|     
-|  15   |  [Python Type Errors](./15_Day_Python_type_errors/15_python_type_errors.md)     | 
-|  16   |  [Python Date time](./16_Day_Python_date_time/16_python_datetime.md)      |     
-|  17   |  [Exception Handling](./17_Day_Exception_handling/17_exception_handling.md)|    
-|  18   |  [Regular Expressions](./18_Day_Regular_expressions/18_regular_expressions.md)|    
-|  19   |  [File Handling](./19_Day_File_handling/19_file_handling.md)   |
-|  20   |  [Python Package Manager](./20_Day_Python_package_manager/20_python_package_manager.md)    |
-|  21   |  [Classes and Objects](./21_Day_Classes_and_objects/21_classes_and_objects.md)      |
-|  22   |  [Web Scraping](./22_Day_Web_scraping/22_web_scraping.md)      |
-|  23   |  [Virtual Environment](./23_Day_Virtual_environment/23_virtual_environment.md)|
-|  24   |  [Statistics](./24_Day_Statistics/24_statistics.md)      |
-|  25   |  [Pandas](./25_Day_Pandas/25_pandas.md)     |
-|  26   |  [Python web](./26_Day_Python_web/26_python_web.md)    |
-|  27   |  [Python with MongoDB](./27_Day_Python_with_mongodb/27_python_with_mongodb.md)     |
-|  28   |  [API](./28_Day_API/28_API.md)     |
-|  29   |  [Building API](./29_Day_Building_API/29_building_API.md)     |
-|  30   |  [Conclusions](./30_Day_Conclusions/30_conclusions.md)      |
+|  01   |  [Introduction](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2001%20Introduction)      |
+|  02   |  [Variables, Built-in Functions](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2002%20Variables%2C%20Built-in%20Functions)  |
+|  03   |  [Operators](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2003%20Operators)    |
+|  04   |  [Strings](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2004%20Strings)|
+|  05   |  [Lists](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2005%20Lists)  |
+|  06   |  [Tuples](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2006%20Tuples) |
+|  07   |  [Sets](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2007%20Sets)  |
+|  08   |  [Dictionaries](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2008%20Dictionaries)     |
+|  09   |  [Conditionals](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2009%20Conditionals)     |
+|  10   |  [Loops](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2010%20Loops)   |
+|  11   |  [Functions](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2011%20Functions)     |
+|  12   |  [Modules](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2012%20%20Modules)   |
+|  13   |  [List Comprehension](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2013%20List%20Comprehension)|
+|  14   |  [Higher Order Functions](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2014%20Higher%20Order%20Functions)|     
+|  15   |  [Python Type Errors](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2015%20%20Python%20Type%20Errors)     | 
+|  16   |  [Python Date time](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2016%20Python%20Date%20Time)      |     
+|  17   |  [Exception Handling](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2017%20Exception%20Handling)|    
+|  18   |  [Regular Expressions](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2018%20Regular%20Expressions)|    
+|  19   |  [File Handling](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2019%20File%20Handling)   |
+|  20   |  [Python Package Manager](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2020%20PIP)    |
+|  21   |  [Classes and Objects](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2021%20Classes%20and%20Objects)      |
+|  22   |  [Web Scraping](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2022%20Web%20Scraping)      |
+|  23   |  [Virtual Environment](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2023%20Virtual%20Environment)|
+|  24   |  [Statistics](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2024%20Statistics)      |
+|  25   |  [Pandas](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2025%20Pandas)     |
+|  26   |  [Python web](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2026%20Python%20for%20web)    |
+|  27   |  [Python with MongoDB](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2027%20Python%20with%20MongoDB)     |
+|  28   |  [API](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2028%20API)     |
+|  29   |  [Building API](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2029%20%20Building%20an%20API)     |
+|  30   |  [Conclusions](https://github.com/Sumanth-Talluri/30Days-Of-Python/tree/master/Day%2030%20%20Conclusions)      |
 
 &nbsp;
 
