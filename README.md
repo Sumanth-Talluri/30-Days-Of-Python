@@ -4,7 +4,7 @@
 
 :arrow_right: &nbsp; If you also want to participate in this 30 days of Python programming challenge then **[Check this out](https://github.com/Asabeneh/30-Days-Of-Python)**
 
-:globe_with_meridians: &nbsp; **View Website [here](https://sumanth-talluri.github.io/30Days-Of-Python/)**
+:globe_with_meridians: &nbsp; **View Website [here](https://sumanth-talluri.github.io/30-Days-Of-Python/)**
 
 &nbsp;
 
