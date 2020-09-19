@@ -1,5 +1,11 @@
 # 🐍 30 Days Of Python
 
+<div style='float: center; text-align: center; margin-bottom: 20px' >
+  <a href='https://www.hackerrank.com/msgrubler' target="_blank">
+  <img width="400px" src="https://juniortech.org/wp-content/uploads/2017/04/python-software-logo-300x158.jpg" />
+  </a>
+</div>
+
 :page_facing_up: &nbsp; This challenge is created by **[Asabeneh Yetayeh](https://github.com/Asabeneh)**
 
 :arrow_right: &nbsp; If you also want to participate in this 30 days of Python programming challenge then **[Check this out](https://github.com/Asabeneh/30-Days-Of-Python)**
