@@ -1,7 +1,7 @@
 # 🐍 30 Days Of Python
 
 <div style='float: center; text-align: center; margin-bottom: 20px' >
-  <a href='https://www.hackerrank.com/msgrubler' target="_blank">
+  <a href='https://sumanth-talluri.github.io/30-Days-Of-Python/' target="_blank">
   <img width="400px" src="https://juniortech.org/wp-content/uploads/2017/04/python-software-logo-300x158.jpg" />
   </a>
 </div>
